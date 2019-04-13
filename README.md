@@ -41,6 +41,7 @@
 - [**Notion**](https://www.notion.so/?r=d5a0d43dd99f446cb27477785ede47f9)，笔记工具，准备逐渐从 Bear 迁到 Notion
 - [**Bear**](http://www.bear-writer.com/)，笔记工具，颜值高，订阅了 Pro，和手机同步
 - [**Typora**](https://typora.io/)，可以基于目录编辑 Markdown，所以 github 仓库的文档都会用他编辑
+- [**MultiMarkdown Composer**](https://multimarkdown.com/)，单文件的 markdown 编辑
 - [**OmniGraffle**](https://www.omnigroup.com/omnigraffle) + [**iThoughtsX**](https://www.toketaware.com/ithoughts-osx)，画流程图
 - [**LICEcap**](http://www.cockos.com/licecap/) ，GIF 录屏工具
 
@@ -53,6 +54,7 @@
 
 - [**Alfred**](https://www.alfredapp.com/) + [**Powerpack**](https://www.alfredapp.com/powerpack/)，应用启动、粘贴板管理、Workflow、Snippets 管理等
 - [**Thor**](https://github.com/gbammc/Thor)，一键直达应用
+- [**TaskPaper**](https://www.taskpaper.com/)，任务管理
 - [**OmniFocus**](https://www.omnigroup.com/omnifocus) ，任务管理，通过 Omni Sync Server 和 iPhone 同步
 - [**Karabiner Element**](https://pqrs.org/osx/karabiner/)，用于[把右 Command 和 Capslock 键利用起来](http://lucifr.com/2013/02/16/caps-lock-to-hyper-key/)，避免快捷键冲突，[简单 note](https://hackmd.io/s/rk4u9i-pG)，详见[《我的快捷键技巧》](https://www.bilibili.com/video/av44127555)
 
