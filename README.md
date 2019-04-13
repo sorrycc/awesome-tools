@@ -1,6 +1,6 @@
-# 装了啥 2019 版
+# awesome-tools
 
-转眼 2019 了，整体更新下[装了啥](https://github.com/sorrycc/blog/issues/16)。
+> 从 [Blog](https://github.com/sorrycc/blog/issues/83) 迁移到 GitHub 仓库维护，可以有历史记录。
 
 ## 翻墙
 
@@ -206,9 +206,8 @@
 - [**FUJIFILM X100T**](https://www.fujifilmusa.com/products/digital_cameras/x/fujifilm_x100t/)
 - [**GoPro Hero7 Black**](https://zh.shop.gopro.com/China/cameras/hero7-black/CHDHX-701-master.html)
 
-## 参考
+## 相关
 
-- https://github.com/sorrycc/blog/issues/16
-- https://github.com/sorrycc/todos/issues/90
-- https://github.com/sorrycc/todos/issues/77
+- [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - 我关注的前端库。
+- [旧版本的装了啥](https://github.com/sorrycc/blog/issues/16)
 
