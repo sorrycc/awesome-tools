@@ -110,7 +110,6 @@
 - [**Github Hovercard**](https://github.com/Justineo/github-hovercard)，比如不用点进去就能看到 issue 详情
 - [**Git History Browser Extension**](https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf)，可视化的方式显示文件修改历史
 - [**File Icon for GitHub, GitLab and Bitbucket**](https://chrome.google.com/webstore/detail/file-icon-for-github-gitl/ficfmibkjjnpogdcfhfokmihanoldbfe)，更好看的文件 icon
-- [**enhanced-github**](https://github.com/softvar/enhanced-github)，显示仓库大小以及直接下载单个文件
 - [**octotree**](https://github.com/ovity/octotree)，显示文件树形目录
 
 #### 其他
@@ -122,8 +121,6 @@
 - [**uBlock Origin**](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)，广告 Block
 - [**Netflix Rating**](https://chrome.google.com/webstore/detail/imdb-ratings-for-netflix/dnbpnlalaijjbogmjbpdkdcohoibjcmp/related?hl=en)，在 netflix 上显示每个影片的 IMDB 的评分信息
 - [**Select like a boss**](https://chrome.google.com/webstore/detail/select-like-a-boss/mnbiiidkialopoakajjpeghipbpljffi/related?hl=en)，可以选择链接里的内容
-- [**whatruns**](https://www.whatruns.com/?source=plugin)，一键查看网站技术栈
-- [**pagespeed**](https://github.com/songlibo/pagespeed-chrome-extension)，分析网页性能
 
 ## iPhone 软件
 
