@@ -53,6 +53,7 @@
 ### 效率
 
 - [**Alfred**](https://www.alfredapp.com/) + [**Powerpack**](https://www.alfredapp.com/powerpack/)，应用启动、粘贴板管理、Workflow、Snippets 管理等
+- [**Copied**](https://copiedapp.com/)，粘贴板管理，之前一直用 Alfred 的粘贴板，试用后发现还是得用专业做粘贴板的工具
 - [**Thor**](https://github.com/gbammc/Thor)，一键直达应用
 - [**TaskPaper**](https://www.taskpaper.com/)，任务管理
 - [**OmniFocus**](https://www.omnigroup.com/omnifocus) ，任务管理，通过 Omni Sync Server 和 iPhone 同步
