@@ -111,6 +111,7 @@
 - [**Github Hovercard**](https://github.com/Justineo/github-hovercard)，比如不用点进去就能看到 issue 详情
 - [**Git History Browser Extension**](https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf)，可视化的方式显示文件修改历史
 - [**File Icon for GitHub, GitLab and Bitbucket**](https://chrome.google.com/webstore/detail/file-icon-for-github-gitl/ficfmibkjjnpogdcfhfokmihanoldbfe)，更好看的文件 icon
+- [**octotree**](https://github.com/ovity/octotree)，显示文件树形目录
 
 #### 其他
 
