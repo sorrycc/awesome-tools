@@ -38,7 +38,7 @@
 
 ### 输出
 
-- [**Notion**](https://www.notion.so/?r=d5a0d43dd99f446cb27477785ede47f9)，笔记工具，准备逐渐从 Bear 迁到 Notion
+- [**Notion**](https://www.notion.so/?r=159be429981b4725ad6f36c4f599bd98)，笔记工具，准备逐渐从 Bear 迁到 Notion
 - [**Bear**](http://www.bear-writer.com/)，笔记工具，颜值高，订阅了 Pro，和手机同步
 - [**Typora**](https://typora.io/)，可以基于目录编辑 Markdown，所以 github 仓库的文档都会用他编辑
 - [**MultiMarkdown Composer**](https://multimarkdown.com/)，单文件的 markdown 编辑
