@@ -77,6 +77,7 @@
 - [**Folx 5**](https://mac.eltima.com/download-manager.html) + [**qBittorrent**](https://www.qbittorrent.org/) + [**Motrix**](https://motrix.app/)，下载工具，Folx 下 http，qBittorrent 下 magnet，Motrix 是 aria2 的封装，可以[下百度云盘、115 等](https://www.yuque.com/moapp/help/extensions)
 - [**f.lux**](https://justgetflux.com)，调节显示器色温，护眼，尤其是早上起来屏幕实在是刺眼
 - [**IINA**](https://github.com/iina/iina)，视频播放
+- [**Perculia**](https://itunes.apple.com/cn/app/perculia/id1462633284?mt=12) - 蓝牙设备管理
 - [**snipaste**](https://www.snipaste.com/)，截图工具，需要标注的时候用
 - [**Get Plain Text**](https://zipzapmac.com/GetPlainText)，自动清除粘贴板内容的格式
 - [**RunCat**](https://itunes.apple.com/nz/app/runcat/id1429033973?mt=12&ref=appinn) - 菜单栏显示奔跑的小猫，CPU 占用率越高跑地越快
