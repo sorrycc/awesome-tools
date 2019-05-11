@@ -83,6 +83,7 @@
 - [**RunCat**](https://itunes.apple.com/nz/app/runcat/id1429033973?mt=12&ref=appinn) - 菜单栏显示奔跑的小猫，CPU 占用率越高跑地越快
 - [**钉钉**](https://tms.dingtalk.com/markets/dingtalk/download) + [**QQ**](https://im.qq.com/macqq/) + [**微信**](https://mac.weixin.qq.com/) + [**Telegram**](https://macos.telegram.org/) + [**Slack**](https://slack.com/downloads/mac)，通讯交流
 - [**Tuxera NTFS**](https://www.tuxera.com/products/tuxera-ntfs-for-mac/) - 支持 NTFS 格式
+- [**Yoink**](https://eternalstorms.at/yoink/) - 临时文件存放处
 
 ### 命令行
 
