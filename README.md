@@ -15,6 +15,8 @@
 
 ## Mac 软件
 
+用了 [SetApp](https://go.setapp.com/invite/sorrycc)，包含以下的不少应用，能省不少。
+
 ### 编辑器和 Terminal
 
 主 [**Intellij Idea**](https://www.jetbrains.com/idea/)，辅 [**VSCode**](https://code.visualstudio.com/) 和 **Vim**。选 Intellij Idea 的原因是无需安装插件就很好用，另外也是没有时间去折腾插件。
