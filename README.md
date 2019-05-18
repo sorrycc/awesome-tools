@@ -127,6 +127,7 @@
 - [**uBlock Origin**](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)，广告 Block
 - [**Netflix Rating**](https://chrome.google.com/webstore/detail/imdb-ratings-for-netflix/dnbpnlalaijjbogmjbpdkdcohoibjcmp/related?hl=en)，在 netflix 上显示每个影片的 IMDB 的评分信息
 - [**Select like a boss**](https://chrome.google.com/webstore/detail/select-like-a-boss/mnbiiidkialopoakajjpeghipbpljffi/related?hl=en)，可以选择链接里的内容
+- [**Lingocloud Interpreter**](https://chrome.google.com/webstore/detail/lingocloud-interpreter/jmpepeebcbihafjjadogphmbgiffiajh/related)，全文翻译
 
 ## iPhone 软件
 
