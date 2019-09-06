@@ -44,7 +44,7 @@
 - [**Bear**](http://www.bear-writer.com/)，笔记工具，颜值高，订阅了 Pro，和手机同步
 - [**Typora**](https://typora.io/)，可以基于目录编辑 Markdown，所以 github 仓库的文档都会用他编辑
 - [**MultiMarkdown Composer**](https://multimarkdown.com/)，单文件的 markdown 编辑
-- [**OmniGraffle**](https://www.omnigroup.com/omnigraffle) + [**iThoughtsX**](https://www.toketaware.com/ithoughts-osx)，分别用于画架构图和和脑图
+- [**OmniGraffle**](https://www.omnigroup.com/omnigraffle) + [**iThoughtsX**](https://www.toketaware.com/ithoughts-osx) + iPad 上的 [**Whiteboard**](https://apps.apple.com/us/app/microsoft-whiteboard/id1352499399)，分别用于画架构图和和脑图
 - [**LICEcap**](http://www.cockos.com/licecap/) ，GIF 录屏工具
 
 ### 输入
