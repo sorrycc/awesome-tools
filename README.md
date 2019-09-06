@@ -158,7 +158,7 @@
 - [**globtester**](http://www.globtester.com/)，调 glob
 - [**ghub.io**](http://ghub.io/)，redirect to an npm package's repository page
 - [**unpkg**](https://unpkg.com/)，npm 包的 cdn 服务，可以查看 npm 包发布后的内容
-- [**sketchboard**](https://sketchboard.me/) + [**draw.io**](https://www.draw.io/) + [**MindMeister**](https://www.mindmeister.com/)，在线画流程图
+- [**sketchboard**](https://sketchboard.me/) + [**draw.io**](https://www.draw.io/) + [**MindMeister**](https://www.mindmeister.com/) + [**Whimsical**](https://whimsical.com/)，在线画流程图
 - [**HackMD**](https://hackmd.io/recent)，在线笔记，有 PPT 展示功能
 - [**Slides**](https://slides.com/)，PPT 制作
 - [**CodeSandbox**](https://codesandbox.io/) + [**glitch**](https://glitch.com/) + [**repl.it**](https://repl.it/)，在线代码编辑，前者支持 sandbox container，可以跑 npm scripts
