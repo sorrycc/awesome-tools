@@ -4,11 +4,11 @@
 
 ## 翻墙
 
-主 [**google cloud**](https://cloud.google.com/)，备 [**rixcloud**](https://home.rixcloud.me/aff.php?aff=1432)、**阿里云香港**和**公司翻墙**。
+主 [**google cloud**](https://cloud.google.com/)，次 [**rixcloud**](https://home.rixcloud.me/aff.php?aff=1432)，备**阿里云香港**和**公司翻墙**。
 
-- google cloud 免费，一年到期后可无限续，支持 netflix
-- rixcloud 到期后可能不续了，有点贵，不过老牌服务商，比较稳定，支持 surge 客户端，当时买这个主要是为了看 netflix，后来 google cloud 支持 netflix 后就没必要再买他了
-- 软件方面，Mac 下用 [**ShadowsocksX-NG-R**](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)，iPhone 下用 [**ShadowRocket**](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)（需切美区下载）
+- google cloud 优点是免费，到期后可无限续，支持 netflix
+- rixcloud 比较稳，特殊时期也能用，支持 surge 客户端，支持 netflix
+- 软件方面，Mac 下用 [**ShadowsocksX-NG-R**](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)，iPhone 下用 [**ShadowRocket**](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)（切美区下载）
 - 通过 [**Proxifier**](https://www.proxifier.com/) 实现命令行应用或其他应用翻墙，比如 iTerm2 下执行 npm publish 偶尔会被墙，并且实测下来比 `export http_proxy` 快
 - 家里的路由器翻墙是用 [**RT-AC88U**](https://www.asus.com/us/Networking/RT-AC88U/) + **梅林小宝版固件**
 - 电视上看 youtube 和 netflix 可以用 [**Nvidia Shield TV**](https://www.nvidia.com/en-us/shield/)，我买的美版，据说国版也可刷原生系统
@@ -21,7 +21,7 @@
 
 主 [**Intellij Idea**](https://www.jetbrains.com/idea/)，辅 [**VSCode**](https://code.visualstudio.com/) 和 **Vim**。选 Intellij Idea 的原因是无需安装插件就很好用，另外也是没有时间去折腾插件。
 
-- 字体主 [**Dank Mono**](https://dank.sh/)，辅 [**Operator Mono**](http://www.typography.com/fonts/operator/overview/)，看厌了一个换另一个
+- 字体用 [**Dank Mono**](https://dank.sh/) 和 [**Operator Mono**](http://www.typography.com/fonts/operator/overview/)，轮着用，看厌一个切另一个
 - Intellij Idea 使用 [**material-theme-jetbrains**](https://github.com/ChrisRM/material-theme-jetbrains)，Theme 选 Material One Dark，字号 16 号，行距 1.2，[效果图](https://gw.alipayobjects.com/zos/rmsportal/JKRPNvvHhPgFonHHXvPe.png)
 - Intellij Idea 插件额外装了 **File Watchers**、**GitLink**、**Import Cost**、**Prettier** 和 **Rainbow Brackets**
 - Terminal 用 [**iTerm2**](https://www.iterm2.com/) + [**zsh**](https://en.wikipedia.org/wiki/Z_shell) + [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh) 的组合，主题是 [robbyrussell](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme)
@@ -40,16 +40,13 @@
 
 ### 输出
 
-- [**Notion**](https://www.notion.so/?r=159be429981b4725ad6f36c4f599bd98)，笔记工具，准备逐渐从 Bear 迁到 Notion
-- [**Bear**](http://www.bear-writer.com/)，笔记工具，颜值高，订阅了 Pro，和手机同步
-- [**Typora**](https://typora.io/)，可以基于目录编辑 Markdown，所以 github 仓库的文档都会用他编辑
-- [**MultiMarkdown Composer**](https://multimarkdown.com/)，单文件的 markdown 编辑
+- **[Ulysses](https://ulysses.app/)**，笔记工具，从 [Bear](http://www.bear-writer.com/) 和 [Notion](https://www.notion.so/?r=159be429981b4725ad6f36c4f599bd98) 切到 Ulysses
 - [**OmniGraffle**](https://www.omnigroup.com/omnigraffle) + [**iThoughtsX**](https://www.toketaware.com/ithoughts-osx) + iPad 上的 [**Whiteboard**](https://apps.apple.com/us/app/microsoft-whiteboard/id1352499399)，分别用于画架构图和和脑图
 - [**LICEcap**](http://www.cockos.com/licecap/) ，GIF 录屏工具
 
 ### 输入
 
-- [**Reeder**](http://reederapp.com/mac/)，RSS 阅读软件，我的主要信息来源，没有提供 rss 源的我会先在 [**rsshub.app**](https://docs.rsshub.app/) 上找，再没有就自己写一个 serverless 服务部署在 now@2 上
+- [**Reeder**](http://reederapp.com/mac/)，RSS 阅读软件，我的主要信息来源，没有提供 rss 源的我会先在 [**rsshub.app**](https://docs.rsshub.app/) 上找，再没有就自己写一个 serverless 服务部署在 [now](https://zeit.co/) 上
 - [**Kiwi for Gmail**](http://kiwiforgmail.com/)，Gmail 客户端
 
 ### 效率
@@ -80,7 +77,7 @@
 - [**f.lux**](https://justgetflux.com)，调节显示器色温，护眼，尤其是早上起来屏幕实在是刺眼
 - [**IINA**](https://github.com/iina/iina)，视频播放
 - [**Perculia**](https://itunes.apple.com/cn/app/perculia/id1462633284?mt=12) - 蓝牙设备管理
-- [**snipaste**](https://www.snipaste.com/)，截图工具，需要标注的时候用
+- [**截图**](https://jietu.qq.com/)，顾名思义，腾讯出的截图工具，备选[snipaste](https://www.snipaste.com/)
 - [**Get Plain Text**](https://zipzapmac.com/GetPlainText)，自动清除粘贴板内容的格式
 - [**RunCat**](https://itunes.apple.com/nz/app/runcat/id1429033973?mt=12&ref=appinn) - 菜单栏显示奔跑的小猫，CPU 占用率越高跑地越快
 - [**钉钉**](https://tms.dingtalk.com/markets/dingtalk/download) + [**QQ**](https://im.qq.com/macqq/) + [**微信**](https://mac.weixin.qq.com/) + [**Telegram**](https://macos.telegram.org/) + [**Slack**](https://slack.com/downloads/mac)，通讯交流
@@ -169,11 +166,12 @@
 - [**Package Diff**](https://diff.intrinsic.com/)，比较 npm 包两个版本直接的区别
 - [**Firefox Send**](https://send.firefox.com/) + [**ffsend**](https://github.com/timvisee/ffsend)，文件分享服务
 - [**Cloud Convert**](https://cloudconvert.com/)，支持 218 种格式相互转换
+- [**SVGR**](https://www.smooth-code.com/open-source/svgr/playground/)，SVG 转 React 组件
 - （beta）[**Webpack config tool**](https://webpack.jakoblind.no/)，webpack 配置工具
 
 #### 付费
 
-- [**Oreilly Safari Books**](https://www.safaribooksonline.com/)，Oreilly 图书、视频教程、newsletter 等，看地比较少，到期了不准备续费了
+- [**Oreilly Safari Books**](https://www.safaribooksonline.com/)，Oreilly 图书、视频教程、newsletter 等
 - [**Frontend Masters**](https://frontendmasters.com/)，视频教程
 - [**Zeit Now**](https://zeit.co/now)，serverless 服务，域名等
 - [**name.com**](https://www.name.com/)，域名服务，之后会转到 Zeit Now 上
@@ -181,8 +179,9 @@
 - [**网易云音乐**](https://music.163.com/)
 - **百度云盘** + **115 网盘** + [**麦果网盘中转**](https://www.maiguopan.com/)，资料下载
 - **爱奇艺** + **腾讯视频** + **优酷**，会员去广告
-- [**Netflix**](https://www.netflix.com)
+- [**Netflix**](https://www.netflix.com)，趁 [pigcan](http://github.com/pigcan) 的账号
 - [**Youtube Premium**](https://www.youtube.com/)，主要为了 iPhone 上切换应用或锁屏后能继续播放
+- [**SetApp**](https://go.setapp.com/invite/sorrycc)，喊几个好友一起买，可以省不少钱
 
 ## 硬件
 
@@ -220,3 +219,4 @@
 
 - [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - 我关注的前端库。
 - [旧版本的装了啥](https://github.com/sorrycc/blog/issues/16)
+
