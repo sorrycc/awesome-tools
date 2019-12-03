@@ -4,9 +4,8 @@
 
 ## 翻墙
 
-主 [**google cloud**](https://cloud.google.com/)，次 [**rixcloud**](https://home.rixcloud.me/aff.php?aff=1432)，备**阿里云香港**和**公司翻墙**。
+主 [**rixcloud**](https://home.rixcloud.me/aff.php?aff=1432)，备**阿里云香港**和**公司翻墙**。
 
-- google cloud 优点是免费，到期后可无限续，支持 netflix
 - rixcloud 比较稳，特殊时期也能用，支持 surge 客户端，支持 netflix
 - 软件方面，Mac 下用 [**ShadowsocksX-NG-R**](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)，iPhone 下用 [**ShadowRocket**](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)（切美区下载）
 - 通过 [**Proxifier**](https://www.proxifier.com/) 实现命令行应用或其他应用翻墙，比如 iTerm2 下执行 npm publish 偶尔会被墙，并且实测下来比 `export http_proxy` 快
@@ -19,11 +18,11 @@
 
 ### 编辑器和 Terminal
 
-主 [**Intellij Idea**](https://www.jetbrains.com/idea/)，辅 [**VSCode**](https://code.visualstudio.com/) 和 **Vim**。选 Intellij Idea 的原因是无需安装插件就很好用，另外也是没有时间去折腾插件。
+主 [**WebStorm**](https://www.jetbrains.com/idea/)，辅 [**VSCode**](https://code.visualstudio.com/) 和 **Vim**。选 WebStorm 的原因是无需安装插件就很好用，另外也是没有时间去折腾插件。
 
 - 字体用 [**Dank Mono**](https://dank.sh/) 和 [**Operator Mono**](http://www.typography.com/fonts/operator/overview/)，轮着用，看厌一个切另一个
-- Intellij Idea 使用 [**material-theme-jetbrains**](https://github.com/ChrisRM/material-theme-jetbrains)，Theme 选 Material One Dark，字号 16 号，行距 1.2，[效果图](https://gw.alipayobjects.com/zos/rmsportal/JKRPNvvHhPgFonHHXvPe.png)
-- Intellij Idea 插件额外装了 **File Watchers**、**GitLink**、**Import Cost**、**Prettier** 和 **Rainbow Brackets**
+- WebStorm 使用 [**material-theme-jetbrains**](https://github.com/ChrisRM/material-theme-jetbrains)，Theme 选 Material One Dark，字号 16 号，行距 1.2，[效果图](https://gw.alipayobjects.com/zos/rmsportal/JKRPNvvHhPgFonHHXvPe.png)
+- WebStorm 插件额外装了 **File Watchers**、**GitLink**、**Import Cost**、**Prettier** 和 **Rainbow Brackets**
 - Terminal 用 [**iTerm2**](https://www.iterm2.com/) + [**zsh**](https://en.wikipedia.org/wiki/Z_shell) + [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh) 的组合，主题是 [robbyrussell](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme)
 - zsh 的插件开了 git、autojump、brew、git、git-extra、git-flow、git-prompt、git-remote-branch、github、gitignore、history、history-substring-search、iterm2、node、npm、npx、nvm、tig、vscode、yarn、[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - iTerm2 里配 `Run command...` 为 `/usr/local/bin/idea --path \2 \1` ([图](https://zos.alipayobjects.com/rmsportal/RmWdxKRQUWFMoVDjerNQ.png))，这样 Command + 点击文件路径，就会在 Intellij Idea 里打开
@@ -40,7 +39,7 @@
 
 ### 输出
 
-- **[Ulysses](https://ulysses.app/)**，笔记工具，从 [Bear](http://www.bear-writer.com/) 和 [Notion](https://www.notion.so/?r=159be429981b4725ad6f36c4f599bd98) 切到 Ulysses
+- [**Ulysses**](https://ulysses.app/)，笔记工具，从 [Bear](http://www.bear-writer.com/) 和 [Notion](https://www.notion.so/?r=159be429981b4725ad6f36c4f599bd98) 切到 Ulysses
 - [**OmniGraffle**](https://www.omnigroup.com/omnigraffle) + [**iThoughtsX**](https://www.toketaware.com/ithoughts-osx) + iPad 上的 [**Whiteboard**](https://apps.apple.com/us/app/microsoft-whiteboard/id1352499399)，分别用于画架构图和和脑图
 - [**LICEcap**](http://www.cockos.com/licecap/) ，GIF 录屏工具
 
@@ -52,7 +51,7 @@
 ### 效率
 
 - [**Alfred**](https://www.alfredapp.com/) + [**Powerpack**](https://www.alfredapp.com/powerpack/)，应用启动、粘贴板管理、Workflow、Snippets 管理等
-- [**Copied**](https://copiedapp.com/)，粘贴板管理，之前一直用 Alfred 的粘贴板，试用后发现还是得用专业做粘贴板的工具
+- [**Paste**](https://pasteapp.me/)，粘贴板管理，[**Copied**](https://copiedapp.com/) 在 mac 10.15 下有 bug 就放弃了，再之前一直用 Alfred 的粘贴板
 - [**Thor**](https://github.com/gbammc/Thor)，一键直达应用
 - [**TaskPaper**](https://www.taskpaper.com/)，任务管理
 - [**OmniFocus**](https://www.omnigroup.com/omnifocus) ，任务管理，通过 Omni Sync Server 和 iPhone 同步
@@ -76,12 +75,11 @@
 - [**Folx 5**](https://mac.eltima.com/download-manager.html) + [**qBittorrent**](https://www.qbittorrent.org/) + [**Motrix**](https://motrix.app/)，下载工具，Folx 下 http，qBittorrent 下 magnet，Motrix 是 aria2 的封装，可以[下百度云盘、115 等](https://www.yuque.com/moapp/help/extensions)
 - [**f.lux**](https://justgetflux.com)，调节显示器色温，护眼，尤其是早上起来屏幕实在是刺眼
 - [**IINA**](https://github.com/iina/iina)，视频播放
-- [**Perculia**](https://itunes.apple.com/cn/app/perculia/id1462633284?mt=12) - 蓝牙设备管理
-- [**截图**](https://jietu.qq.com/)，顾名思义，腾讯出的截图工具，备选[snipaste](https://www.snipaste.com/)
+- [**Perculia**](https://itunes.apple.com/cn/app/perculia/id1462633284?mt=12) - 蓝牙设备管理，可以一键连耳机
+- [**截图**](https://jietu.qq.com/)，顾名思义，腾讯出的截图工具
 - [**RunCat**](https://itunes.apple.com/nz/app/runcat/id1429033973?mt=12&ref=appinn) - 菜单栏显示奔跑的小猫，CPU 占用率越高跑地越快
 - [**钉钉**](https://tms.dingtalk.com/markets/dingtalk/download) + [**QQ**](https://im.qq.com/macqq/) + [**微信**](https://mac.weixin.qq.com/) + [**Telegram**](https://macos.telegram.org/) + [**Slack**](https://slack.com/downloads/mac)，通讯交流
 - [**Tuxera NTFS**](https://www.tuxera.com/products/tuxera-ntfs-for-mac/) - 支持 NTFS 格式
-- [**Yoink**](https://eternalstorms.at/yoink/) - 临时文件存放处
 
 ### 命令行
 
@@ -178,7 +176,7 @@
 - [**网易云音乐**](https://music.163.com/)
 - **百度云盘** + **115 网盘** + [**麦果网盘中转**](https://www.maiguopan.com/)，资料下载
 - **爱奇艺** + **腾讯视频** + **优酷**，会员去广告
-- [**Netflix**](https://www.netflix.com)，趁 [pigcan](http://github.com/pigcan) 的账号
+- [**Netflix**](https://www.netflix.com)，蹭 [pigcan](http://github.com/pigcan) 的账号
 - [**Youtube Premium**](https://www.youtube.com/)，主要为了 iPhone 上切换应用或锁屏后能继续播放
 - [**SetApp**](https://go.setapp.com/invite/sorrycc)，喊几个好友一起买，可以省不少钱
 
@@ -186,16 +184,15 @@
 
 #### 电脑
 
-- **MacBook Pro 15-inch, Mid 2015**，公司配的，256 G 不太够用，自己买了个 [**SDCZ43 128G U 盘**](https://www.sandisk.co.uk/home/usb-flash/ultra-fit-usb) 一直插着做扩展
-- [**神舟战神 Z7-KP7S1**](https://detail.tmall.com/item.htm?id=543437409299&skuId=3434337259021)，可以玩一些要求不太高的 PC 游戏
+- **MacBook Pro 15-inch, Mid 2015**，公司配的，256 G 不太够用，用[三星 970](https://detail.tmall.com/item.htm?id=569327401210&spm=a1z09.2.0.0.76a52e8dZEojbU&_u=l1h6urtf206) 升了 1T 硬盘
 
 #### 电脑配件
 
 显示器、键盘、鼠标都 x2，保证公司和家里的体验一致。
 
-- [**U28E590D**](https://detail.tmall.com/item.htm?id=523282229383)x2，三星显示器，应该是 4K 中最便宜的了
-- (**HHKB Pro 2 无刻** + [彩色键帽](https://item.taobao.com/item.htm?id=522721338431&_u=41h6urte838))x2
-- [**Razer DeathAdder Chroma**](http://www.razerzone.com/store/razer-deathadder-chroma)x2
+- [**U28E590D**](https://detail.tmall.com/item.htm?id=523282229383) x2，三星显示器，应该是 4K 中最便宜的了
+- (**HHKB Pro 2 无刻** + [彩色键帽](https://item.taobao.com/item.htm?id=522721338431&_u=41h6urte838)) x2
+- [**Razer DeathAdder Chroma**](http://www.razerzone.com/store/razer-deathadder-chroma) x2
 
 #### 家庭网络
 
@@ -207,7 +204,7 @@
 
 #### 耳机
 
-- [**Bose QC30**](https://www.bose.com/en_us/products/headphones/earphones/quietcontrol-30.html)，公司环境有点吵，降噪耳机必备
+- [**AirPods Pro**](https://www.apple.com/hk/en/airpods-pro/)，降噪，蓝牙连接性比 Bose QC30 好点
 
 #### 相机
 
