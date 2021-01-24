@@ -185,6 +185,7 @@
 #### 电脑
 
 - **MacBook Pro 15-inch, Mid 2015**，公司配的，256 G 不太够用，用[三星 970](https://detail.tmall.com/item.htm?id=569327401210&spm=a1z09.2.0.0.76a52e8dZEojbU&_u=l1h6urtf206) 升了 1T 硬盘
+- [**MacBook Air 13-inch, M1, 2020**](https://www.apple.com/macbook-air/)
 
 #### 电脑配件
 
@@ -196,11 +197,11 @@
 
 #### 家庭网络
 
-- J1900 软路由 + UBNT 交换机 + （UBNT AP & [**华硕 RT-AC88U**](https://item.jd.com/2104499.html)）
+- J1900 软路由 + UBNT 交换机 + （UBNT AP & [**华硕 RT-AC88U**](https://item.jd.com/2104499.html) as AP）
 
 #### 手机
 
-- [**iPhoneX**](https://www.apple.com/iphone-x/)
+- [**iPhone 12 Pro Max**](https://www.apple.com/iphone-12-pro/)
 
 #### 耳机
 
