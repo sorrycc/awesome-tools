@@ -91,6 +91,7 @@
 - [**tig**](https://github.com/jonas/tig) - git 扩展
 - [**bat**](https://github.com/sharkdp/bat)，带行号的 cat，可以配 `alias cat="bat"`
 - [**fd**](https://github.com/sharkdp/fd)，比系统自带的 find 友好
+- [**fzf**](https://github.com/junegunn/fzf)，更好的 ctrl + r
 
 #### 通过 `yarn global add` 安装
 
