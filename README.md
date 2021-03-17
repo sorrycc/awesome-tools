@@ -53,8 +53,9 @@
 - [**Paste**](https://pasteapp.me/)，粘贴板管理，[**Copied**](https://copiedapp.com/) 在 mac 10.15 下有 bug 就放弃了，再之前一直用 Alfred 的粘贴板
 - [**Thor**](https://github.com/gbammc/Thor)，一键直达应用
 - [**TaskPaper**](https://www.taskpaper.com/)，任务管理
-- [**OmniFocus**](https://www.omnigroup.com/omnifocus) ，任务管理，通过 Omni Sync Server 和 iPhone 同步
+- [**OmniFocus**](https://www.omnigroup.com/omnifocus)，任务管理，通过 Omni Sync Server 和 iPhone 同步
 - [**Karabiner Element**](https://pqrs.org/osx/karabiner/)，用于[把右 Command 和 Capslock 键利用起来](http://lucifr.com/2013/02/16/caps-lock-to-hyper-key/)，避免快捷键冲突，[简单 note](https://hackmd.io/s/rk4u9i-pG)，详见[《我的快捷键技巧》](https://www.bilibili.com/video/av44127555)
+- [**Bob**](https://github.com/ripperhe/Bob)，Mac 端翻译软件，支持划词翻译、截图翻译等
 
 ### vlog 相关
 
