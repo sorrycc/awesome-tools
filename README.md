@@ -4,13 +4,12 @@
 
 ## 翻墙
 
-主 [**rixcloud**](https://home.rixcloud.me/aff.php?aff=1432)，备**阿里云香港**和**公司翻墙**。
+主 [**IPLC.VIP**](https://portal.uuks.club/aff.php?aff=1717)，备**公司翻墙**。
 
-- rixcloud 比较稳，特殊时期也能用，支持 surge 客户端，支持 netflix
 - 软件方面，Mac 下用 [**ShadowsocksX-NG-R**](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)，iPhone 下用 [**ShadowRocket**](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)（切美区下载）
 - 通过 [**Proxifier**](https://www.proxifier.com/) 实现命令行应用或其他应用翻墙，比如 iTerm2 下执行 npm publish 偶尔会被墙，并且实测下来比 `export http_proxy` 快
 - 家里的路由器翻墙是用 [**RT-AC88U**](https://www.asus.com/us/Networking/RT-AC88U/) + **梅林小宝版固件**
-- 电视上看 youtube 和 netflix 可以用 [**Nvidia Shield TV**](https://www.nvidia.com/en-us/shield/)，我买的美版，据说国版也可刷原生系统
+- 电视上看 youtube 和 netflix 可以用 [**Nvidia Shield TV**](https://www.nvidia.com/en-us/shield/)，买的美版，据说国版也可刷原生系统
 
 ## Mac 软件
 
@@ -39,13 +38,13 @@
 
 ### 输出
 
-- [**Ulysses**](https://ulysses.app/)，笔记工具，从 [Bear](http://www.bear-writer.com/) 和 [Notion](https://www.notion.so/?r=159be429981b4725ad6f36c4f599bd98) 切到 Ulysses
+- [**语雀**](https://www.yuque.com/), ，笔记工具，从 [Bear](http://www.bear-writer.com/) 和 [Notion](https://www.notion.so/?r=159be429981b4725ad6f36c4f599bd98) 切到 [Ulysses](https://ulysses.app/)，再到语雀
 - [**OmniGraffle**](https://www.omnigroup.com/omnigraffle) + [**iThoughtsX**](https://www.toketaware.com/ithoughts-osx) + iPad 上的 [**Whiteboard**](https://apps.apple.com/us/app/microsoft-whiteboard/id1352499399)，分别用于画架构图和和脑图
 - [**LICEcap**](http://www.cockos.com/licecap/) ，GIF 录屏工具
 
 ### 输入
 
-- [**Reeder**](http://reederapp.com/mac/)，RSS 阅读软件，我的主要信息来源，没有提供 rss 源的我会先在 [**rsshub.app**](https://docs.rsshub.app/) 上找，再没有就自己写一个 serverless 服务部署在 [now](https://zeit.co/) 上
+- [**Reeder**](http://reederapp.com/mac/)，RSS 阅读软件，我的主要信息来源，没提供 rss 源的我会先在 [**rsshub.app**](https://docs.rsshub.app/) 上找，再没有就自己写一个 serverless 服务部署在 [now](https://zeit.co/) 上
 - [**Kiwi for Gmail**](http://kiwiforgmail.com/)，Gmail 客户端
 
 ### 效率
@@ -63,6 +62,7 @@
 - [**Final Cut Pro**](https://www.apple.com/final-cut-pro/)，视频剪辑
 - [**RDM**](https://github.com/avibrazil/RDM)，分辨率切换，允许设置未支持的分辨率，比如我会在录屏时设置 720p(hd) 的分辨率
 - [**KeyCastr**](https://github.com/keycastr/keycastr)，按键显示
+- [**MicroSoft Text to Speech**](https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/)，文本转语音
 
 ### 其他
 
@@ -75,7 +75,7 @@
 - [**Folx 5**](https://mac.eltima.com/download-manager.html) + [**qBittorrent**](https://www.qbittorrent.org/) + [**Motrix**](https://motrix.app/)，下载工具，Folx 下 http，qBittorrent 下 magnet，Motrix 是 aria2 的封装，可以[下百度云盘、115 等](https://www.yuque.com/moapp/help/extensions)
 - [**f.lux**](https://justgetflux.com)，调节显示器色温，护眼，尤其是早上起来屏幕实在是刺眼
 - [**IINA**](https://github.com/iina/iina)，视频播放
-- [**Perculia**](https://itunes.apple.com/cn/app/perculia/id1462633284?mt=12) - 蓝牙设备管理，可以一键连耳机
+- [**Perculia**](https://itunes.apple.com/cn/app/perculia/id1462633284?mt=12) - 蓝牙设备管理，可一键连耳机
 - [**截图**](https://jietu.qq.com/)，顾名思义，腾讯出的截图工具
 - [**RunCat**](https://itunes.apple.com/nz/app/runcat/id1429033973?mt=12&ref=appinn) - 菜单栏显示奔跑的小猫，CPU 占用率越高跑地越快
 - [**钉钉**](https://tms.dingtalk.com/markets/dingtalk/download) + [**QQ**](https://im.qq.com/macqq/) + [**微信**](https://mac.weixin.qq.com/) + [**Telegram**](https://macos.telegram.org/) + [**Slack**](https://slack.com/downloads/mac)，通讯交流
@@ -97,7 +97,6 @@
 - [**projj**](https://github.com/popomore/projj)，github/gitlab 项目管理
 - [**serve**](https://github.com/zeit/serve)，本地静态服务器
 - [**fkill**](https://github.com/sindresorhus/fkill)，比 kill 好用的进程 killer
-- [**qrcode-terminal**](https://github.com/gtanner/qrcode-terminal)，二维码生成
 
 ### Chrome 插件
 
@@ -151,9 +150,8 @@
 - [**astexplorer**](https://astexplorer.net/)，调 ast
 - [**globtester**](http://www.globtester.com/)，调 glob
 - [**ghub.io**](http://ghub.io/)，redirect to an npm package's repository page
-- [**unpkg**](https://unpkg.com/)，npm 包的 cdn 服务，可以查看 npm 包发布后的内容
+- [**unpkg**](https://unpkg.fly.dev/)，npm 包的 cdn 服务，可以查看 npm 包发布后的内容
 - [**sketchboard**](https://sketchboard.me/) + [**draw.io**](https://www.draw.io/) + [**MindMeister**](https://www.mindmeister.com/) + [**Whimsical**](https://whimsical.com/)，在线画流程图
-- [**HackMD**](https://hackmd.io/recent)，在线笔记，有 PPT 展示功能
 - [**Slides**](https://slides.com/)，PPT 制作
 - [**CodeSandbox**](https://codesandbox.io/) + [**glitch**](https://glitch.com/) + [**repl.it**](https://repl.it/)，在线代码编辑，前者支持 sandbox container，可以跑 npm scripts
 - [**node.green**](https://node.green/)，查询 NodeJS 的 ES2018 特性支持情况
@@ -164,7 +162,7 @@
 - [**Firefox Send**](https://send.firefox.com/) + [**ffsend**](https://github.com/timvisee/ffsend)，文件分享服务
 - [**Cloud Convert**](https://cloudconvert.com/)，支持 218 种格式相互转换
 - [**SVGR**](https://www.smooth-code.com/open-source/svgr/playground/)，SVG 转 React 组件
-- （beta）[**Webpack config tool**](https://webpack.jakoblind.no/)，webpack 配置工具
+- [**Webpack config tool**](https://createapp.dev/)，webpack 配置工具
 
 #### 付费
 
@@ -172,7 +170,6 @@
 - [**Frontend Masters**](https://frontendmasters.com/)，视频教程
 - [**Zeit Now**](https://zeit.co/now)，serverless 服务，域名等
 - [**name.com**](https://www.name.com/)，域名服务，之后会转到 Zeit Now 上
-- [**少数派 Power+ 2.0**](https://sspai.com/series/70)，提效相关文章
 - [**网易云音乐**](https://music.163.com/)
 - **百度云盘** + **115 网盘** + [**麦果网盘中转**](https://www.maiguopan.com/)，资料下载
 - **爱奇艺** + **腾讯视频** + **优酷**，会员去广告
