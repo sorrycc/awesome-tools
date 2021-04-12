@@ -17,7 +17,7 @@
 
 ### 编辑器和 Terminal
 
-主 [**WebStorm**](https://www.jetbrains.com/idea/)，辅 [**VSCode**](https://code.visualstudio.com/) 和 **Vim**。选 WebStorm 的原因是无需安装插件就很好用，另外也是没有时间去折腾插件。
+主 [**WebStorm**](https://www.jetbrains.com/webstorm/)，辅 [**VSCode**](https://code.visualstudio.com/) 和 **Vim**。选 WebStorm 的原因是无需安装插件就很好用，另外也是没有时间去折腾插件。
 
 - 字体用 [**Dank Mono**](https://dank.sh/) 和 [**Operator Mono**](http://www.typography.com/fonts/operator/overview/)，轮着用，看厌一个切另一个
 - WebStorm 使用 [**material-theme-jetbrains**](https://github.com/ChrisRM/material-theme-jetbrains)，Theme 选 Material One Dark，字号 16 号，行距 1.2，[效果图](https://gw.alipayobjects.com/zos/rmsportal/JKRPNvvHhPgFonHHXvPe.png)
