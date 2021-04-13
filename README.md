@@ -79,7 +79,7 @@
 - [**Perculia**](https://itunes.apple.com/cn/app/perculia/id1462633284?mt=12) - 蓝牙设备管理，可一键连耳机
 - [**截图**](https://jietu.qq.com/)，顾名思义，腾讯出的截图工具
 - [**RunCat**](https://itunes.apple.com/nz/app/runcat/id1429033973?mt=12&ref=appinn) - 菜单栏显示奔跑的小猫，CPU 占用率越高跑地越快
-- [**钉钉**](https://tms.dingtalk.com/markets/dingtalk/download) + [**QQ**](https://im.qq.com/macqq/) + [**微信**](https://mac.weixin.qq.com/) + [**Telegram**](https://macos.telegram.org/) + [**Slack**](https://slack.com/downloads/mac)，通讯交流
+- [**钉钉**](https://tms.dingtalk.com/markets/dingtalk/download) + [**QQ**](https://im.qq.com/macqq/) + [**微信**](https://mac.weixin.qq.com/) + [**WeChatExtension-ForMac**](https://github.com/MustangYM/WeChatExtension-ForMac) + [**Telegram**](https://macos.telegram.org/) + [**Slack**](https://slack.com/downloads/mac)，通讯交流
 - [**Tuxera NTFS**](https://www.tuxera.com/products/tuxera-ntfs-for-mac/) - 支持 NTFS 格式
 
 ### 命令行
