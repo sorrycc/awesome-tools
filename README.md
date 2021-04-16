@@ -115,6 +115,7 @@
 
 #### 其他
 
+- [**Wappalyzer**](https://www.wappalyzer.com/)，查看网站技术栈
 - [**Workona**](https://workona.com/)，tab 管理，基于使用场景
 - [**JSON Formatter**](https://github.com/callumlocke/json-formatter)，让 JSON 更易读
 - [**Better History**](https://chrome.google.com/webstore/detail/chrome-better-history/aadbaagbanfijdnflkhepgjmhlpppbad?hl=en)，搜索历史记录用
