@@ -4,7 +4,7 @@
 
 ## 翻墙
 
-主 [**IPLC.VIP**](https://portal.uuks.club/aff.php?aff=1717)，备**公司翻墙**。
+主 [**IPLC.VIP**](https://thirdislandchain.com/aff.php?aff=1717)，备**公司翻墙**。
 
 - 软件方面，Mac 下用 [**ShadowsocksX-NG-R**](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)，iPhone 下用 [**ShadowRocket**](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)（切美区下载）
 - 通过 [**Proxifier**](https://www.proxifier.com/) 实现命令行应用或其他应用翻墙，比如 iTerm2 下执行 npm publish 偶尔会被墙，并且实测下来比 `export http_proxy` 快
