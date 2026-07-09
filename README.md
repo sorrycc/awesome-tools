@@ -216,4 +216,5 @@
 
 - [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - 我关注的前端库。
 - [旧版本的装了啥](https://github.com/sorrycc/blog/issues/16)
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
